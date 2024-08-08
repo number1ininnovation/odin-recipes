@@ -1,1 +1,2 @@
 # odin-recipes
+<!-- This project is to create a webpage with an ordered list of recipes including links to external sites hosting those recipes. the goal is to integrate links, ordered lists, and basic HTML work into an actual working webpage. -->
